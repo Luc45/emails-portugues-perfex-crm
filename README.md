@@ -11,6 +11,16 @@
 4. Insira os novos emails que estão no arquivo SQL deste repositório, executando ele como um comando SQL
 5. Acesse seu Perfex -> Configurações -> Modelos de Email e clique em algum para ver se funcionou.
 
+### Categorias de Email traduzidos:
+- Tickets
+- Orçamentos
+- Faturas
+- Nota de Crédito
+- Tarefas
+- Clientes
+- Projetos
+- Leads
+
 ### Falta traduzir emails relativos à:
 - Contratos
 - Assinaturas
@@ -20,3 +30,5 @@
 ### Observaçoes:
 - "Tickets" são chamados de "Solicitações"
 - "Discussões" são chamados de "Conversas"
+
+PULL-REQUESTS SÃO BEM VINDOS
